@@ -1,0 +1,15 @@
+C:\Users\91790\Desktop\Remap Dotnet\4B-assignment\4B-assignment\bin\Debug\net6.0\4B-assignment.exe
+C:\Users\91790\Desktop\Remap Dotnet\4B-assignment\4B-assignment\bin\Debug\net6.0\4B-assignment.deps.json
+C:\Users\91790\Desktop\Remap Dotnet\4B-assignment\4B-assignment\bin\Debug\net6.0\4B-assignment.runtimeconfig.json
+C:\Users\91790\Desktop\Remap Dotnet\4B-assignment\4B-assignment\bin\Debug\net6.0\4B-assignment.dll
+C:\Users\91790\Desktop\Remap Dotnet\4B-assignment\4B-assignment\bin\Debug\net6.0\4B-assignment.pdb
+C:\Users\91790\Desktop\Remap Dotnet\4B-assignment\4B-assignment\obj\Debug\net6.0\4B-assignment.csproj.AssemblyReference.cache
+C:\Users\91790\Desktop\Remap Dotnet\4B-assignment\4B-assignment\obj\Debug\net6.0\4B-assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91790\Desktop\Remap Dotnet\4B-assignment\4B-assignment\obj\Debug\net6.0\4B-assignment.AssemblyInfoInputs.cache
+C:\Users\91790\Desktop\Remap Dotnet\4B-assignment\4B-assignment\obj\Debug\net6.0\4B-assignment.AssemblyInfo.cs
+C:\Users\91790\Desktop\Remap Dotnet\4B-assignment\4B-assignment\obj\Debug\net6.0\4B-assignment.csproj.CoreCompileInputs.cache
+C:\Users\91790\Desktop\Remap Dotnet\4B-assignment\4B-assignment\obj\Debug\net6.0\4B-assignment.dll
+C:\Users\91790\Desktop\Remap Dotnet\4B-assignment\4B-assignment\obj\Debug\net6.0\refint\4B-assignment.dll
+C:\Users\91790\Desktop\Remap Dotnet\4B-assignment\4B-assignment\obj\Debug\net6.0\4B-assignment.pdb
+C:\Users\91790\Desktop\Remap Dotnet\4B-assignment\4B-assignment\obj\Debug\net6.0\4B-assignment.genruntimeconfig.cache
+C:\Users\91790\Desktop\Remap Dotnet\4B-assignment\4B-assignment\obj\Debug\net6.0\ref\4B-assignment.dll
